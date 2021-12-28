@@ -1,2 +1,2 @@
 # tailwind_webpage
-![](images/tailwind_ss)
+![](images/tailwind_ss.png)
